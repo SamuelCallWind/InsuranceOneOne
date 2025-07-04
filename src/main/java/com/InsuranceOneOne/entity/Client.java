@@ -16,7 +16,7 @@ public class Client {
     @Setter
     @Getter
     private String username;
-    @Column(nullable = false)
+    @Column(nullable = false, unique = true)
     @Setter
     @Getter
     private String email;
