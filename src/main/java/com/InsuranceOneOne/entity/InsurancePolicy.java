@@ -20,7 +20,7 @@ public class InsurancePolicy {
     private int id;
 
     @Column(nullable = false, unique = true)
-    private int policyNumber;
+    private String policyNumber;
 
     @Column(nullable = false)
     private String type;

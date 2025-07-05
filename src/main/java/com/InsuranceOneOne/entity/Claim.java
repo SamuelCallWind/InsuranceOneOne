@@ -30,7 +30,7 @@ public class Claim {
     private BigDecimal claimAmount;
 
     @ManyToOne
-    @JoinColumn(name = "client_id", nullable = false)
-    private Client client;
+    @JoinColumn(name = "policy_id", nullable = false)
+    private InsurancePolicy insurancePolicy;
 
 }

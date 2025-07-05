@@ -5,8 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9631fb9b-ceb0-4b75-9436-5d6105a55de1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/InsuranceOneOne/config/DataInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/InsuranceOneOne/repository/ClaimRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/InsuranceOneOne/repository/InsurancePolicyRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/InsuranceOneOne/entity/Claim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/InsuranceOneOne/entity/Claim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/InsuranceOneOne/entity/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/InsuranceOneOne/entity/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/InsuranceOneOne/entity/InsurancePolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/InsuranceOneOne/entity/InsurancePolicy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/InsuranceOneOne/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/InsuranceOneOne/repository/ClientRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/InsuranceOneOne/workflow/InsuranceOneOneApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/InsuranceOneOne/InsuranceOneOneApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/InsuranceOneOne/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/InsuranceOneOne/repository/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/InsuranceOneOne/workflow/InsuranceOneOneApplication.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +30,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -73,11 +87,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.InsuranceOneOne" />
+    </key>
+  </component>
   <component name="RunManager" selected="Spring Boot.InsuranceOneOneApplication (1)">
-    <configuration name="InsuranceOneOneApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <configuration name="InsuranceOneOneApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="InsuranceOneOne" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.InsuranceOneOne.workflow.InsuranceOneOneApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.InsuranceOneOne.InsuranceOneOne.InsuranceOneOneApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -85,7 +104,7 @@
     <configuration name="InsuranceOneOneApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="InsuranceOneOne" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.InsuranceOneOne.InsuranceOneOne.InsuranceOneOneApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.InsuranceOneOne.InsuranceOneOneApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -113,7 +132,7 @@
       <workItem from="1749967457396" duration="1446000" />
       <workItem from="1749991258155" duration="2449000" />
       <workItem from="1751634928092" duration="1257000" />
-      <workItem from="1751636349876" duration="11317000" />
+      <workItem from="1751636349876" duration="19877000" />
     </task>
     <servers />
   </component>

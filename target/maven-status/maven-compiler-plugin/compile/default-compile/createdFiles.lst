@@ -1,0 +1,13 @@
+com\InsuranceOneOne\entity\InsurancePolicy.class
+com\InsuranceOneOne\entity\Client.class
+com\InsuranceOneOne\entity\InsurancePolicy$InsurancePolicyBuilder.class
+com\InsuranceOneOne\repository\ClaimRepository.class
+com\InsuranceOneOne\InsuranceOneOneApplication.class
+com\InsuranceOneOne\config\DataInitializer.class
+com\InsuranceOneOne\repository\InsurancePolicyRepository.class
+com\InsuranceOneOne\controller\UserController.class
+com\InsuranceOneOne\entity\Client$ClientBuilder.class
+com\InsuranceOneOne\entity\Claim$ClaimBuilder.class
+com\InsuranceOneOne\repository\ClientRepository.class
+com\InsuranceOneOne\config\SecurityConfig.class
+com\InsuranceOneOne\entity\Claim.class
