@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9631fb9b-ceb0-4b75-9436-5d6105a55de1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/InsuranceOneOne/controller/AuthenticationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/InsuranceOneOne/dto/ClientDTO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +120,7 @@
       <workItem from="1749967457396" duration="1446000" />
       <workItem from="1749991258155" duration="2449000" />
       <workItem from="1751634928092" duration="1257000" />
-      <workItem from="1751636349876" duration="22797000" />
+      <workItem from="1751636349876" duration="30098000" />
     </task>
     <servers />
   </component>
